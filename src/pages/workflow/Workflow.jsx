@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { db } from "../../firebase";
 import { collection, getDocs, deleteDoc, doc } from "firebase/firestore";
-import styles from "./Workflow.module.scss";
+import styles from "./workflow.module.scss";
 import Navbar from "../../assets/Navbar.svg";
 import { KeyboardArrowUp, KeyboardArrowDown } from "@mui/icons-material";
 import Dot from "../../assets/dot.svg";
