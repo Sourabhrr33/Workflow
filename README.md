@@ -4,7 +4,12 @@
 
 A React-based workflow builder with Firebase integration, designed for creating and managing automated workflows with API and email steps.
 
-![Workflow Screenshot](./screenshots/workflow-editor.png)
+## 🔐 Test Credentials (Development Only)
+
+For quick testing, you may use these demo credentials:
+
+📧 Email: sourabhrr3344@gmail.com
+🔑 Password: Sourabh@123
 
 ## Features
 
@@ -30,12 +35,6 @@ A React-based workflow builder with Firebase integration, designed for creating 
 - **Backend**: Firebase (Authentication, Firestore)
 - **Deployment**: Vercel/Netlify
 
-## 🔐 Test Credentials (Development Only)
-
-For quick testing, you may use these demo credentials:
-
-📧 Email: sourabhrr3344@gmail.com
-🔑 Password: Sourabh@123
 
 
 ## Installation
