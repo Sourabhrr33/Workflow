@@ -6,7 +6,7 @@ import ReactFlow, {
   MiniMap
 } from "reactflow";
 import "reactflow/dist/style.css";
-import styles from "./WorkflowCreator.module.scss";
+import styles from "./workflowCreator.module.scss";
 import save from "../../assets/saveIcon.svg";
 import { useNavigate, useParams } from "react-router-dom";
 import { 
