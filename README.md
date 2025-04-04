@@ -4,7 +4,7 @@
 
 A React-based workflow builder with Firebase integration, designed for creating and managing automated workflows with API and email steps.
 
-![Workflow Screenshot](./screenshots/workflow-editor.png) *(Replace with your actual screenshot)*
+![Workflow Screenshot](./screenshots/workflow-editor.png)
 
 ## Features
 
