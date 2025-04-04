@@ -1,0 +1,170 @@
+.loginContainer {
+    width: 460px;
+    height: 768px;
+    flex-shrink: 0;
+    border-radius: 24px 24px 0px 0px;
+    background: #FAFAFA;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 382px;
+    padding-left: 30px;
+
+}
+
+.subContainer {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 0px 146px 0px 0px;
+}
+
+.welcome {
+    color: #000;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    margin-top: 43px;
+
+}
+
+.login {
+    color: #000;
+    font-family: "poppins";
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    margin-bottom: 13px;
+
+}
+.loginModule{
+display: inline-flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 20px;
+}
+.loginEmail{
+display: flex;
+width: 380px;
+flex-direction: column;
+justify-content: flex-end;
+align-items: flex-start;
+}
+.input{
+display: flex;
+padding: 11px 12px 10px 12px;
+align-items: center;
+gap: 8px;
+flex: 1 0 0;
+width: -webkit-fill-available;
+margin-top: 9px;
+}
+.forgot{
+    display: flex;
+    align-items: center;
+    gap: 124px;
+}
+.LoginButton{
+width: 380px;
+height: 56px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #EE3425;
+}
+
+  .checkboxInput {
+    width: 18px;
+    height: 18px;
+    accent-color: red; /* Makes the tick color red */
+  }
+  .checkboxlabel{
+    font-size: 16px;
+    color: #333;
+  }
+  .checkboxcontainer {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+  }
+
+
+  .sociallogincontainer {
+    text-align: center;
+    max-width: 350px;
+    margin-left: 20px;
+  }
+  
+  .divider {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .divider::before,
+  .divider::after {
+    content: "";
+    flex: 1;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .divider span {
+    padding: 0 10px;
+    font-weight: bold;
+    color: #444;
+  }
+  
+  .socialbutton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+    cursor: pointer;
+    transition: 0.3s;
+    color: #616161;
+text-align: center;
+font-family: Poppins;
+font-size: 12.8px;
+font-style: normal;
+font-weight: 400;
+  }
+  
+  .socialbutton img {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+  }
+  
+  .google {
+    border-color: #db4437;
+  }
+  
+  .facebook {
+    border-color: #4267b2;
+  }
+  
+  .apple {
+    border-color: #000;
+  }
+  
+  .signup-text {
+    margin-top: 15px;
+    font-size: 14px;
+  }
+  
+  .signuptext a {
+    font-weight: bold;
+    text-decoration: none;
+    color: #000;
+  }
+  
+  .signuptext a:hover {
+    text-decoration: underline;
+  }
+  
