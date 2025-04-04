@@ -1,5 +1,5 @@
 // src/components/WorkflowCreator/CustomNode.js
-import styles from "./WorkflowCreator.module.scss";
+import styles from "./workflowCreator.module.scss";
 
 const CustomNode = ({ data, id }) => {
   return (
